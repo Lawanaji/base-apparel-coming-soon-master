@@ -1,0 +1,63 @@
+main {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 16px;
+}
+
+.first {
+  background-image: url(/base-apparel-coming-soon-master/images/bg-pattern-desktop.svg);
+}
+
+.first {
+  padding: 100px;
+}
+
+.third {
+  margin-top: 60px;
+}
+
+.third h1 {
+  color: #ce9797;
+  font-size: 40px;
+}
+
+.third h2 {
+  font-size: 60px;
+}
+
+.third p {
+  color: #ce9797;
+  font-size: 18px;
+}
+
+.fouth {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.fifth {
+  background: -webkit-gradient(linear, left top, left bottom, from(#f8bfbf), to(#ee8c8c));
+  background: linear-gradient(#f8bfbf, #ee8c8c);
+  width: 100px;
+  height: 35px;
+  margin-left: -50px;
+  border-radius: 30px;
+}
+
+.fifth img {
+  padding: 5px;
+  margin-left: 45px;
+}
+
+form {
+  width: 150px;
+  border: #413a3a;
+}
+
+#email {
+  border: none;
+}
+/*# sourceMappingURL=index.css.map */
